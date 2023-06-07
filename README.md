@@ -29,7 +29,6 @@
   streamlit run App.py
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
-- `Classifier.py` is the main file which is containing a KNN Algorithm.
 
 ## Screenshots
 
